@@ -1,4 +1,4 @@
-# AngularJSLogin-RegisterProject
+# AngularJS Login-Register Project
 AngularJS kullanarak yazdığım basit login / register projem.
 
 Projem görüntü olarak basit olup göz yormamakla birlikte okuyanın rahat anlaması için kod olarak da oldukça basit tutulmuştur.
